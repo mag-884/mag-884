@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mag-884 _Magdalena Kokanovic
-- 👀 I’m interested in clean code.
-- 🌱 I’m currently learning  how to make clean code and to learn from people who are deeply in IT.
+- 👀 I love clean code.
 
 <!---
 mag-884/mag-884 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
